@@ -34,6 +34,16 @@
            - https://github.com/karthi-the-hacker
            - https://github.com/cappriciosec
 
+# More features:
+  - This tool is available in pip for easier access.
+  - To install:
+      - `pip install -i https://test.pypi.org/simple/ tool-29489==2.0.1`
+  - To use tool-29489:
+      - `tool-29489 --help`
+  - Reference images are attached below:
+
+    ![image](https://github.com/prasad-1808/tool-29489/assets/86564180/dfacdf17-3448-4274-a9da-bf065e5f99ad)
+
    
 # Supported Operating System 🖥️
   <img src="https://knowtive.com/wp-content/uploads/2018/04/windows_10.0.0.jpg" width="150px" height="150px" alt="Windows">   <img src="https://logosmarcas.net/wp-content/uploads/2020/09/Linux-Logo.png" width="150px" height="150px" alt="Linux">   <img src="https://www.kindpng.com/picc/m/172-1724310_mac-os-logo-png-transparent-png.png" width="150px" height="150px" alt="Mac OS">   <img src="https://logodix.com/logo/82913.jpg" width="150px" height="150px" alt="Android Termux">
